@@ -28,13 +28,14 @@ The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
 
 **🔑 Key Learnings**
 
-1.Designed a multi-page interactive dashboard with slicers and tooltips
+1. Designed a multi-page interactive dashboard with slicers and tooltips
 
-2.Selected the right visuals  for clear insight delivery
+2. Selected the right visuals  for clear insight delivery
 
-3.Focused on UI/UX best practices — consistent color palette, spacing, navigation buttons, and storytelling flow.
+3. Focused on UI/UX best practices — consistent color palette, spacing, navigation buttons, and storytelling flow.
 
 4. Understanding of Business needs and transforming the data.
+
 
 
 💡 This project was a great opportunity to level up my data visualization and analytical thinking while solving a real business problem!
