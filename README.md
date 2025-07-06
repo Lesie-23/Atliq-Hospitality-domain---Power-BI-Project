@@ -1,8 +1,8 @@
 # Atliq-Hospitality-domain---Power-BI-Project
 
 Live Dashboard Link:
-https://app.powerbi.com/view?r=eyJrIjoiZGE0MDc4ZDctNTY1My00ZTQwLWI0Y2ItOTY2NTUwYjA1ODc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-![image](https://github.com/user-attachments/assets/cac57785-e4e6-4055-9d2b-96e42b19cad7)
+[https://app.powerbi.com/view?r=eyJrIjoiZGE0MDc4ZDctNTY1My00ZTQwLWI0Y2ItOTY2NTUwYjA1ODc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+![image](https://github.com/user-attachments/assets/cac57785-e4e6-4055-9d2b-96e42b19cad7)](https://app.powerbi.com/groups/me/reports/63392157-9ca7-4160-8f34-2ef1bf1bfabd/ee8011c02d646d2d83cc?experience=power-bi)
 
 
 **Problem Statement:**
