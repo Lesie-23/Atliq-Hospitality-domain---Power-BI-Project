@@ -1,7 +1,7 @@
 # Atliq-Hospitality-domain---Power-BI-Project
 
 Live Dashboard Link:
-[https://app.powerbi.com/view?r=eyJrIjoiZGE0MDc4ZDctNTY1My00ZTQwLWI0Y2ItOTY2NTUwYjA1ODc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+[[https://app.powerbi.com/view?r=eyJrIjoiZGE0MDc4ZDctNTY1My00ZTQwLWI0Y2ItOTY2NTUwYjA1ODc1IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9]
 
 
 
