@@ -46,7 +46,7 @@ The dashboard Provide Insights to the Revenue Team in Hospitality Domain:
 
 ## 📊 [Dashboard Live Link](https://app.powerbi.com/view?r=eyJrIjoiMWI2Y2Q0YjUtNjFhNi00MmU2LTg5MWEtMTVlODNhZmNlZGRmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
-
+## 💼 [LinkedIn Post](https://www.linkedin.com/feed/update/urn:li:activity:7347617177056727040/?originTrackingId=dqEP7qU9R0OD1m9%2BNuFHJw%3D%3D)
 
 
 
